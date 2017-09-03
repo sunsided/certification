@@ -3,7 +3,7 @@
 Some MOOC providers such as Udacity do not offer an option
 to host course completion certificates. Because of this and
 because I like having things in one place too, I host my
-certificates myself here.
+certificates here myself.
 
 ## Udacity
 
