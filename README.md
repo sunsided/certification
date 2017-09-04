@@ -7,7 +7,7 @@ certificates here myself.
 
 ## Udacity
 
-- [Deep Learning Nanodegree Foundations](udacity/nd101-deep-learning.pdf)
+- [Deep Learning Nanodegree Foundation](udacity/nd101-deep-learning.pdf)
 
 ## Coursera
 
