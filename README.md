@@ -7,6 +7,7 @@ certificates here myself.
 
 ## Udacity
 
+- [Artificial Intelligence Nanodegree](udacity/nd889-artificial-intelligence.pdf)
 - [Deep Learning Nanodegree Foundation](udacity/nd101-deep-learning.pdf)
 
 ## Coursera
