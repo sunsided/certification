@@ -7,14 +7,15 @@ certificates here myself.
 
 ## Udacity
 
-- [Artificial Intelligence Nanodegree](udacity/nd889-artificial-intelligence.pdf)
-- [Deep Learning Nanodegree Foundation](udacity/nd101-deep-learning.pdf)
+- [Artificial Intelligence Nanodegree and Specializations](udacity/nd889-artificial-intelligence.pdf) ([verify](https://confirm.udacity.com/RKELYCTH))
+- [Computer Vision Nanodegree](udacity/nd891-computer-vision.pdf) ([verify](https://confirm.udacity.com/GGVQ637X))
+- [Deep Learning Nanodegree Foundation](udacity/nd101-deep-learning.pdf) ([verify](https://confirm.udacity.com/AHPPKEEM))
 
 ## Coursera
 
-- [Machine Learning](coursera/machine-learning.pdf) ([verify](https://coursera.org/verify/9FQYSEF2PFZK))
 - [Gamification](coursera/gamification.pdf) ([verify](https://coursera.org/verify/TXMTP29R7S))
 - [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
+- [Machine Learning](coursera/machine-learning.pdf) ([verify](https://coursera.org/verify/9FQYSEF2PFZK))
 
 ## Kadenze
 
