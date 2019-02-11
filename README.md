@@ -10,6 +10,7 @@ certificates here myself.
 - [Artificial Intelligence Nanodegree and Specializations](udacity/nd889-artificial-intelligence.pdf) ([verify](https://confirm.udacity.com/RKELYCTH))
 - [Computer Vision Nanodegree](udacity/nd891-computer-vision.pdf) ([verify](https://confirm.udacity.com/GGVQ637X))
 - [Deep Learning Nanodegree Foundation](udacity/nd101-deep-learning.pdf) ([verify](https://confirm.udacity.com/AHPPKEEM))
+- [Self-Driving Car Engineer Nanodegree](udacity/nd013-self-driving-car.pdf) ([verify](https://confirm.udacity.com/EH49SJSP))
 
 ## Coursera
 
