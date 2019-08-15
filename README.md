@@ -18,6 +18,11 @@ certificates here myself.
 - [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
 - [Machine Learning](coursera/machine-learning.pdf) ([verify](https://coursera.org/verify/9FQYSEF2PFZK))
 
+## Udemy
+
+- [Design Thinking Crashkurs](udemy/UC-XZR9BEZJ.pdf) ([verify](https://www.udemy.com/certificate/UC-XZR9BEZJ/))
+- [Grundlagen des Innovationsmanagements](udemy/UC-OR3D4CI4.pdf) ([verify](https://www.udemy.com/certificate/UC-OR3D4CI4/))
+
 ## Kadenze
 
 - [Creative Applications of Deep Learning with TensorFlow](kadenze/cadl.pdf) ([verify](https://www.kadenze.com/certificates/verified/RZPJHM9V))
