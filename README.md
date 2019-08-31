@@ -26,6 +26,7 @@ certificates here myself.
 - [3D Procedural Mesh Generation Fundamentals in Unity](udemy/UC-A9BWRE11.pdf) ([verify](https://www.udemy.com/certificate/UC-A9BWRE11/))
 - [Unity 5 Build a System that Generates Houses & Castles](udemy/UC-DOLUGKBR.pdf) ([verify](https://www.udemy.com/certificate/UC-DOLUGKBR/))
 - [Unity 2D Random Dungeon Generator for a Roguelike Video Game](udemy/UC-IX5760VI.pdf) ([verify](https://www.udemy.com/certificate/UC-IX5760VI/))
+- [Create a 3D Endless Runner from Scratch in Unity](udemy/UC-K6H8565W.pdf) ([verify](https://www.udemy.com/certificate/UC-K6H8565W/))
 
 ## Kadenze
 
