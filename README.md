@@ -12,15 +12,15 @@ certificates here myself.
 ### Udacity
 
 - [Self-Driving Car Engineer Nanodegree](udacity/nd013-self-driving-car.pdf) ([verify](https://confirm.udacity.com/EH49SJSP))
-    - [Capstone / ROS Integration project](https://github.com/sunsided/CarND-Capstone)
-    - [Path Planning project](https://github.com/sunsided/CarND-Path-Planning-Project)
-    - [PID Control project](https://github.com/sunsided/CarND-PID-Control-Project)
-    - [Sparse Localization / Particle Filter project](https://github.com/sunsided/CarND-Kidnapped-Vehicle-Project)
-    - [Kalman Filter project](https://github.com/sunsided/CarND-Extended-Kalman-Filter-Project)
-    - [Behavioral Cloning project](https://github.com/sunsided/CarND-Behavioral-Cloning-P3)
-    - [Traffic Sign Classifier project](https://github.com/sunsided/CarND-Traffic-Sign-Classifier-Project)
-    - [Simple Lane Line detection project](https://github.com/sunsided/CarND-LaneLines-P1)
-    - [Advanced Lane Line Detection project](https://github.com/sunsided/CarND-Advanced-Lane-Lines)
+  - [Capstone / ROS Integration project](https://github.com/sunsided/CarND-Capstone)
+  - [Path Planning project](https://github.com/sunsided/CarND-Path-Planning-Project)
+  - [PID Control project](https://github.com/sunsided/CarND-PID-Control-Project)
+  - [Sparse Localization / Particle Filter project](https://github.com/sunsided/CarND-Kidnapped-Vehicle-Project)
+  - [Kalman Filter project](https://github.com/sunsided/CarND-Extended-Kalman-Filter-Project)
+  - [Behavioral Cloning project](https://github.com/sunsided/CarND-Behavioral-Cloning-P3)
+  - [Traffic Sign Classifier project](https://github.com/sunsided/CarND-Traffic-Sign-Classifier-Project)
+  - [Simple Lane Line detection project](https://github.com/sunsided/CarND-LaneLines-P1)
+  - [Advanced Lane Line Detection project](https://github.com/sunsided/CarND-Advanced-Lane-Lines)
 - [Deep Learning Nanodegree Foundation](udacity/nd101-deep-learning.pdf) ([verify](https://confirm.udacity.com/AHPPKEEM), [project](https://github.com/sunsided/DLND))
 
 ---
@@ -99,3 +99,4 @@ certificates here myself.
   - [Unity 2D - Pong clone](zenva/ec53d9a9.pdf) ([verify](https://academy.zenva.com/certificate/ec53d9a9/))
   - [Unity 2D - Space Invaders clone](zenva/1942e987.pdf) ([verify](https://academy.zenva.com/certificate/1942e987/))
   - [Construct a First Person Shooter](zenva/95a74f1f.pdf) ([verify](https://academy.zenva.com/certificate/95a74f1f/), [project](https://github.com/sunsided/unity-fps))
+  - [Audio Effects and Soundtracks in Unity Games](readme/5e2fd7ab.pdf) ([verify](https://academy.zenva.com/certificate/5e2fd7ab/))
