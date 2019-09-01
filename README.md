@@ -56,3 +56,10 @@ certificates here myself.
 
 - [M102: MongoDB for DBAs](mongodb/m102-dba.pdf)
 - [M101N: MongoDB for .NET Developer](mongodb/m101n.pdf)
+
+## Zenva
+
+- Unity Game Development Mini-Degree ([course](https://academy.zenva.com/product/unity-game-development-mini-degree/), ongoing)
+  - [Unity 2D - Pong clone](zenva/ec53d9a9.pdf) ([verify](https://academy.zenva.com/certificate/ec53d9a9/))
+  - [Unity 2D - Space Invaders clone](zenva/1942e987.pdf) ([verify](https://academy.zenva.com/certificate/1942e987/))
+  - [Construct a First Person Shooter](zenva/95a74f1f.pdf) ([verify](https://academy.zenva.com/certificate/95a74f1f/), [project](https://github.com/sunsided/unity-fps))
