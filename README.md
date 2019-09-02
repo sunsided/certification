@@ -100,3 +100,4 @@ certificates here myself.
   - [Unity 2D - Space Invaders clone](zenva/1942e987.pdf) ([verify](https://academy.zenva.com/certificate/1942e987/))
   - [Construct a First Person Shooter](zenva/95a74f1f.pdf) ([verify](https://academy.zenva.com/certificate/95a74f1f/), [project](https://github.com/sunsided/unity-fps))
   - [Audio Effects and Soundtracks in Unity Games](readme/5e2fd7ab.pdf) ([verify](https://academy.zenva.com/certificate/5e2fd7ab/))
+  - [Unity Cinemachine for Films and Games](readme/2bac0ffa.pdf) ([verify](https://academy.zenva.com/certificate/2bac0ffa/))
