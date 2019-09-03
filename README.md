@@ -103,3 +103,5 @@ certificates here myself.
   - [Unity 2D Projects - Pong clone](zenva/ec53d9a9.pdf) ([verify](https://academy.zenva.com/certificate/ec53d9a9/))
   - [Unity 2D Projects - Space Invaders clone](zenva/1942e987.pdf) ([verify](https://academy.zenva.com/certificate/1942e987/))
   - [Unity 2D Projects - Rocket Defender](zenva/98fa34a0.pdf) ([verify](https://academy.zenva.com/certificate/98fa34a0/))
+  - [Unity 2D Projects - Super Plumbers](zenva/cf623533.pdf) ([verify](https://academy.zenva.com/certificate/cf623533/))
+  
