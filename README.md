@@ -106,3 +106,4 @@ certificates here myself.
   - [Unity 2D Projects - Super Plumbers](zenva/cf623533.pdf) ([verify](https://academy.zenva.com/certificate/cf623533/))
   - [Unity 2D Projects - Toads and Fireflies](zenva/25ef10a2.pdf) ([verify](https://academy.zenva.com/certificate/25ef10a2/), [project](https://github.com/sunsided/toads-and-fireflies))
   - [Unity 2D Projects - Rogue Frog](zenva/4828dc03.pdf) ([verify](https://academy.zenva.com/certificate/4828dc03/))
+  - [Unity 2D Projects - Worm Attack](zenva/05ad24b7.pdf) ([verify](https://academy.zenva.com/certificate/05ad24b7/))
