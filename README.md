@@ -108,3 +108,6 @@ certificates here myself.
   - [Unity 2D Projects - Rogue Frog](zenva/4828dc03.pdf) ([verify](https://academy.zenva.com/certificate/4828dc03/))
   - [Unity 2D Projects - Worm Attack](zenva/05ad24b7b.pdf) ([verify](https://academy.zenva.com/certificate/05ad24b7/))
   - [Develop a Puzzle Platformer Game](zenva/2ab895c7.pdf) ([verify](https://academy.zenva.com/certificate/2ab895c7/), [project](https://github.com/sunsided/zenva-puzzle-platformer))
+  - [Mobile Game Development for Beginners](zenva/827ce874.pdf) ([verify](https://academy.zenva.com/certificate/827ce874/))
+
+  
