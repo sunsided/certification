@@ -111,3 +111,4 @@ certificates here myself.
   - [Develop a Puzzle Platformer Game](zenva/2ab895c7.pdf) ([verify](https://academy.zenva.com/certificate/2ab895c7/), [project](https://github.com/sunsided/zenva-puzzle-platformer))
   - [Mobile Game Development for Beginners](zenva/827ce874.pdf) ([verify](https://academy.zenva.com/certificate/827ce874/))
   - [Intermediate C# - Build a Text-Based RPG in Unity](zenva/8f5f430b.pdf) ([verify](https://academy.zenva.com/certificate/8f5f430b/))
+  - [Create a City Building Game with Unity](zenva/b92891fb.pdf) ([verify](https://academy.zenva.com/certificate/b92891fb/))
