@@ -115,4 +115,5 @@ certificates here myself.
   - [Create a City Building Game with Unity](zenva/b92891fb.pdf) ([verify](https://academy.zenva.com/certificate/b92891fb/))
   - [Unity UI Projects - Create an Inventory Screen](zenva/b0f73a35.pdf) ([verify](https://academy.zenva.com/certificate/b0f73a35/))
   - [Unity UI Projects – Create a Level Selection Screen](zenva/98b6fe9b.pdf) ([verify](https://academy.zenva.com/certificate/98b6fe9b/))
-  - ["Create Reusable Crafting Systems in Unity](zenva/f9dfb55b.pdf) ([verify](https://academy.zenva.com/certificate/f9dfb55b/))
+  - [Create Reusable Crafting Systems in Unity](zenva/f9dfb55b.pdf) ([verify](https://academy.zenva.com/certificate/f9dfb55b/))
+  - [Procedural Content Generation with Unity](zenva/79b08823.pdf) ([verify](https://academy.zenva.com/certificate/79b08823/))
