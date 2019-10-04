@@ -7,6 +7,22 @@ certificates here myself.
 
 ---
 
+## Leadership, Entrepreneurship and Project Management
+
+### Coursera
+
+- [Gamification](coursera/gamification.pdf) ([verify](https://coursera.org/verify/TXMTP29R7S))
+- [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
+
+### Udemy
+
+- [Lean Leadership, Lean Culture & Lean Management](udemy/UC-KMVENK69.pdf) ([verify](https://www.udemy.com/certificate/UC-KMVENK69/))
+- [Design Thinking Crashkurs](udemy/UC-XZR9BEZJ.pdf) ([verify](https://www.udemy.com/certificate/UC-XZR9BEZJ/))
+- [Grundlagen des Innovationsmanagements](udemy/UC-OR3D4CI4.pdf) ([verify](https://www.udemy.com/certificate/UC-OR3D4CI4/))
+- [Prozessmodellierung mit BPMN 2.0](udemy/UC-9Q7L0H39.pdf) ([verify](https://www.udemy.com/certificate/UC-9Q7L0H39/))
+
+---
+
 ## Robotics and Autonomous Mobile Systems
 
 ### Udacity
@@ -57,21 +73,6 @@ certificates here myself.
   - [Facial Keypoint Detection project](https://github.com/sunsided/facial-keypoints)
   - [Image Captioning project](https://github.com/sunsided/image-captioning)
   - [SLAM project](https://github.com/sunsided/slam)
-
----
-
-## Leadership, Entrepreneurship and Project Management
-
-### Coursera
-
-- [Gamification](coursera/gamification.pdf) ([verify](https://coursera.org/verify/TXMTP29R7S))
-- [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
-
-### Udemy
-
-- [Design Thinking Crashkurs](udemy/UC-XZR9BEZJ.pdf) ([verify](https://www.udemy.com/certificate/UC-XZR9BEZJ/))
-- [Grundlagen des Innovationsmanagements](udemy/UC-OR3D4CI4.pdf) ([verify](https://www.udemy.com/certificate/UC-OR3D4CI4/))
-- [Prozessmodellierung mit BPMN 2.0](udemy/UC-9Q7L0H39.pdf) ([verify](https://www.udemy.com/certificate/UC-9Q7L0H39/))
 
 ---
 
