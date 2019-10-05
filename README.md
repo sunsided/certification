@@ -121,3 +121,4 @@ certificates here myself.
   - [Shader Graph for Beginners](zenva/da7dfebc.pdf) ([verify](https://academy.zenva.com/certificate/da7dfebc/), [project](https://github.com/sunsided/shader-graph-for-beginners))
   - [Testing and Debugging in Unity](zenva/a9786778.pdf) ([verify](https://academy.zenva.com/certificate/a9786778/))
   - [AR Projects - Science App for Kids](zenva/62b7f1ee.pdf) ([verify](https://academy.zenva.com/certificate/62b7f1ee/))
+  - [Humanoid Animation Tools for Beginners](zenva/0fb27e6a.pdf) ([verify](https://academy.zenva.com/certificate/0fb27e6a/))
