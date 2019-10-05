@@ -117,3 +117,4 @@ certificates here myself.
   - [Unity UI Projects – Create a Level Selection Screen](zenva/98b6fe9b.pdf) ([verify](https://academy.zenva.com/certificate/98b6fe9b/))
   - [Create Reusable Crafting Systems in Unity](zenva/f9dfb55b.pdf) ([verify](https://academy.zenva.com/certificate/f9dfb55b/))
   - [Procedural Content Generation with Unity](zenva/79b08823.pdf) ([verify](https://academy.zenva.com/certificate/79b08823/))
+  - [Create and Manage Huge Worlds](zenva/b90e282e.pdf) ([verify](https://academy.zenva.com/certificate/b90e282e/))
