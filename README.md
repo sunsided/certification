@@ -120,3 +120,4 @@ certificates here myself.
   - [Create and Manage Huge Worlds](zenva/b90e282e.pdf) ([verify](https://academy.zenva.com/certificate/b90e282e/))
   - [Shader Graph for Beginners](zenva/da7dfebc.pdf) ([verify](https://academy.zenva.com/certificate/da7dfebc/), [project](https://github.com/sunsided/shader-graph-for-beginners))
   - [Testing and Debugging in Unity](zenva/a9786778.pdf) ([verify](https://academy.zenva.com/certificate/a9786778/))
+  - [AR Projects - Science App for Kids](zenva/62b7f1ee.pdf) ([verify](https://academy.zenva.com/certificate/62b7f1ee/))
