@@ -122,3 +122,4 @@ certificates here myself.
   - [Testing and Debugging in Unity](zenva/a9786778.pdf) ([verify](https://academy.zenva.com/certificate/a9786778/))
   - [AR Projects - Science App for Kids](zenva/62b7f1ee.pdf) ([verify](https://academy.zenva.com/certificate/62b7f1ee/))
   - [Humanoid Animation Tools for Beginners](zenva/0fb27e6a.pdf) ([verify](https://academy.zenva.com/certificate/0fb27e6a/))
+  - [Blender for Beginners - Craft Low-Poly Game Assets](zenva/a93aabd7.pdf) ([verify](https://academy.zenva.com/certificate/a93aabd7/))
