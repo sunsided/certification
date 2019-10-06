@@ -96,7 +96,7 @@ certificates here myself.
 
 ### Zenva
 
-- [Unity Game Development Mini-Degree](zenva/dae8a3f2.pdf) ([verify](https://academy.zenva.com/certificate/dae8a3f2), [lecture certificates](zenva/Unity-Game-Development-Mini-Degree.md))
+- [Unity Game Development Mini-Degree](zenva/unity-game-development/dae8a3f2.pdf) ([verify](https://academy.zenva.com/certificate/dae8a3f2), [lecture certificates](zenva/unity-game-development/README.md))
   - [Construct a First Person Shooter](https://github.com/sunsided/unity-fps)
   - [Unity 2D Projects - Toads and Fireflies](https://github.com/sunsided/toads-and-fireflies)
   - [Develop a Puzzle Platformer Game](https://github.com/sunsided/zenva-puzzle-platformer)
