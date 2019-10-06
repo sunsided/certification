@@ -124,3 +124,4 @@ certificates here myself.
   - [Humanoid Animation Tools for Beginners](zenva/0fb27e6a.pdf) ([verify](https://academy.zenva.com/certificate/0fb27e6a/))
   - [Blender for Beginners - Craft Low-Poly Game Assets](zenva/a93aabd7.pdf) ([verify](https://academy.zenva.com/certificate/a93aabd7/))
   - [Pixel Art with GIMP for Beginners](zenva/246ba90b.pdf) ([verify](https://academy.zenva.com/certificate/246ba90b/))
+  - [Create Vector Game Artwork with Inkscape](zenva/bb017717.pdf) ([verify](https://academy.zenva.com/certificate/bb017717/))
