@@ -125,3 +125,4 @@ certificates here myself.
   - [Blender for Beginners - Craft Low-Poly Game Assets](zenva/a93aabd7.pdf) ([verify](https://academy.zenva.com/certificate/a93aabd7/))
   - [Pixel Art with GIMP for Beginners](zenva/246ba90b.pdf) ([verify](https://academy.zenva.com/certificate/246ba90b/))
   - [Create Vector Game Artwork with Inkscape](zenva/bb017717.pdf) ([verify](https://academy.zenva.com/certificate/bb017717/))
+  - [VR Game Development for Beginners](zenva/cd9339ee.pdf) ([verify](https://academy.zenva.com/certificate/cd9339ee/))
