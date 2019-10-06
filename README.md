@@ -96,7 +96,7 @@ certificates here myself.
 
 ### Zenva
 
-- Unity Game Development Mini-Degree ([course](https://academy.zenva.com/product/unity-game-development-mini-degree/), ongoing)
+- [Unity Game Development Mini-Degree](zenva/dae8a3f2.pdf) ([verify](https://academy.zenva.com/certificate/dae8a3f2))
   - [Construct a First Person Shooter](zenva/95a74f1f.pdf) ([verify](https://academy.zenva.com/certificate/95a74f1f/), [project](https://github.com/sunsided/unity-fps))
   - [Audio Effects and Soundtracks in Unity Games](readme/5e2fd7ab.pdf) ([verify](https://academy.zenva.com/certificate/5e2fd7ab/))
   - [MagicaVoxel for Beginners - Create Voxel Game Assets](zenva/c9cee4f4.pdf) ([verify](https://academy.zenva.com/certificate/c9cee4f4/))
