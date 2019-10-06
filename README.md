@@ -123,3 +123,4 @@ certificates here myself.
   - [AR Projects - Science App for Kids](zenva/62b7f1ee.pdf) ([verify](https://academy.zenva.com/certificate/62b7f1ee/))
   - [Humanoid Animation Tools for Beginners](zenva/0fb27e6a.pdf) ([verify](https://academy.zenva.com/certificate/0fb27e6a/))
   - [Blender for Beginners - Craft Low-Poly Game Assets](zenva/a93aabd7.pdf) ([verify](https://academy.zenva.com/certificate/a93aabd7/))
+  - [Pixel Art with GIMP for Beginners](zenva/246ba90b.pdf) ([verify](https://academy.zenva.com/certificate/246ba90b/))
