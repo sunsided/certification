@@ -94,6 +94,7 @@ certificates here myself.
 - [Unity 2D Random Dungeon Generator for a Roguelike Video Game](udemy/UC-IX5760VI.pdf) ([verify](https://www.udemy.com/certificate/UC-IX5760VI/), [project](https://github.com/sunsided/unity-procedural-dungeons))
 - [Create a 3D Endless Runner from Scratch in Unity](udemy/UC-K6H8565W.pdf) ([verify](https://www.udemy.com/certificate/UC-K6H8565W/), [project](https://github.com/sunsided/unity-endless-runner))
 - [Pathfinding in Unity](udemy/UC-RMOSPE7C.pdf) ([verify](https://www.udemy.com/certificate/UC-RMOSPE7C/), [project](https://github.com/sunsided/unity-pathfinding-diy))
+- [The Ultimate Guide to Unity Design Patterns](udemy/UC-O1RUSB25.pdf) ([verify](https://www.udemy.com/certificate/UC-O1RUSB25/))
 
 ### Zenva
 
