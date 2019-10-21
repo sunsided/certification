@@ -16,6 +16,7 @@ certificates here myself.
 
 ### Udemy
 
+- [The Complete Management Skills Certification Course (2019)](udemy/UC-HPTVJ78Q.pdf) ([verify](https://www.udemy.com/certificate/UC-HPTVJ78Q/))
 - [Lean Leadership, Lean Culture & Lean Management](udemy/UC-KMVENK69.pdf) ([verify](https://www.udemy.com/certificate/UC-KMVENK69/))
 - [Design Thinking Crashkurs](udemy/UC-XZR9BEZJ.pdf) ([verify](https://www.udemy.com/certificate/UC-XZR9BEZJ/))
 - [Grundlagen des Innovationsmanagements](udemy/UC-OR3D4CI4.pdf) ([verify](https://www.udemy.com/certificate/UC-OR3D4CI4/))
