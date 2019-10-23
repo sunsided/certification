@@ -14,6 +14,11 @@ certificates here myself.
 - [Gamification](coursera/gamification.pdf) ([verify](https://coursera.org/verify/TXMTP29R7S))
 - [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
 
+## Eazl
+
+- [Advanced Management Training Program 2019](eazl/3118-AMT2019.pdf)
+  - Note that this is an instructor issued certificate for the [Complete Management Skills Certification Course (2019)](https://www.udemy.com/certificate/UC-HPTVJ78Q/) Udemy course listed below.
+
 ### Udemy
 
 - [The Complete Management Skills Certification Course (2019)](udemy/UC-HPTVJ78Q.pdf) ([verify](https://www.udemy.com/certificate/UC-HPTVJ78Q/))
