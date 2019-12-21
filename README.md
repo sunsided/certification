@@ -89,6 +89,10 @@ certificates here myself.
 - [M102: MongoDB for DBAs](mongodb/m102-dba.pdf)
 - [M101N: MongoDB for .NET Developer](mongodb/m101n.pdf)
 
+### Neo4j
+
+- [Introduction to Neo4j](neo4j/93901863.pdf) ([verify](https://graphacademy.neo4j.com/training/certificates/3f66d827ed05b1a8f970cfe65015c8843759483eb5e004f3d0c9061a3ded9a94.pdf))
+
 ---
 
 ## Game Development
