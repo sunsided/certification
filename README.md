@@ -13,6 +13,7 @@ certificates here myself.
 
 - [Gamification](coursera/gamification.pdf) ([verify](https://coursera.org/verify/TXMTP29R7S))
 - [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
+- [Algorithmic Toolbox](coursera/algortihmic-toolbox-M35LUD3SKCNL.pdf) ([verify](http://coursera.org/verify/M35LUD3SKCNL))
 
 ## Eazl
 
