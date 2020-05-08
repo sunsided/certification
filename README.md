@@ -34,6 +34,11 @@ certificates here myself.
 
 ### Udacity
 
+- [Flying Car and Autonomous Flight Engineer Nanodegree](udacity/nd787-flying-car.pdf) ([verify](https://confirm.udacity.com/3LQH9R6G))
+  - [Capstone / Quadrotor Sensor Fusion and Pose Estimation](https://github.com/sunsided/FCND-Estimation-CPP)
+  - [3D Quadrotor Control](https://github.com/sunsided/FCND-Controls-CPP)
+  - [3D Motion Planning](https://github.com/sunsided/FCND-Motion-Planning)
+  - [Trajectory Following](https://github.com/sunsided/FCND-Backyard-Flyer)
 - [Self-Driving Car Engineer Nanodegree](udacity/nd013-self-driving-car.pdf) ([verify](https://confirm.udacity.com/EH49SJSP))
   - [Capstone / ROS Integration project](https://github.com/sunsided/CarND-Capstone)
   - [Path Planning project](https://github.com/sunsided/CarND-Path-Planning-Project)
