@@ -34,6 +34,12 @@ certificates here myself.
 
 ### Udacity
 
+- [Sensor Fusion Nanodegree](udacity/nd313-sensor-fusion.pdf) ([verify](https://confirm.udacity.com/T6G4FKGT))
+  - [LiDAR Point Clouds: Plane Segmentation and Obstacle Clustering](https://github.com/sunsided/SFND_Lidar_Obstacle_Detection)
+  - [2D Feature Tracking](https://github.com/sunsided/SFND_2D_Feature_Tracking)
+  - [3D Object Tracking for Time-to-Collision estimation](https://github.com/sunsided/SFND_3D_Object_Tracking)
+  - [Radar Target Generation and Detection (2D CA-CFAR)](https://github.com/sunsided/SFND_Radar_2D_CFAR)
+  - [Multi-Object Tracking using Unscented Kalman Filters](https://github.com/sunsided/SFND_Unscented_Kalman_Filter)
 - [Flying Car and Autonomous Flight Engineer Nanodegree](udacity/nd787-flying-car.pdf) ([verify](https://confirm.udacity.com/3LQH9R6G))
   - [Capstone / Quadrotor Sensor Fusion and Pose Estimation](https://github.com/sunsided/FCND-Estimation-CPP)
   - [3D Quadrotor Control](https://github.com/sunsided/FCND-Controls-CPP)
