@@ -34,6 +34,13 @@ certificates here myself.
 
 ### Udacity
 
+- [Robotics Software Engineer](udacity/nd209-robotics.pdf) ([verify](https://confirm.udacity.com/S7MYXKLP))
+  - [ROS Kinetic in Docker](https://github.com/sunsided/robond-ros-docker) (not part of the track)
+  - [RGB-D based SLAM via RTAB-Map](https://github.com/sunsided/RoboND-MapMyWorld)
+  - [Home Service Robot: RViz markers, Gmapping SLAM and AMCL](https://github.com/sunsided/RoboND-HomeServiceRobot)
+  - [(Adaptive) Monte Carlo Localization](https://github.com/sunsided/RoboND-WhereAmI)
+  - [Arm Mover: Nodes and message pub/sub](https://github.com/sunsided/RoboND-simple_arm)
+  - [Visual object following](https://github.com/sunsided/RoboND-GoChaseIt)
 - [Sensor Fusion Nanodegree](udacity/nd313-sensor-fusion.pdf) ([verify](https://confirm.udacity.com/T6G4FKGT))
   - [LiDAR Point Clouds: Plane Segmentation and Obstacle Clustering](https://github.com/sunsided/SFND_Lidar_Obstacle_Detection)
   - [2D Feature Tracking](https://github.com/sunsided/SFND_2D_Feature_Tracking)
