@@ -113,6 +113,10 @@ certificates here myself.
 - [Neo4j Certified Professional](neo4j/16930976.pdf) ([verify](https://graphacademy.neo4j.com/certificates/fa34c0664c233c8801aaa5239b34929f964bf73eaa7db0b03dd8bfec81abb20c.pdf))
 - [Introduction to Neo4j](neo4j/93901863.pdf) ([verify](https://graphacademy.neo4j.com/training/certificates/3f66d827ed05b1a8f970cfe65015c8843759483eb5e004f3d0c9061a3ded9a94.pdf))
 
+### TigerGraph
+
+- [Certified TigerGraph Associate (GSQL101)](tigergraph/1594239534-240931109.pdf) ([verify](https://www.proprofs.com/quiz-school/usercertificate.php?id=240931109))
+
 ---
 
 ## Game Development
