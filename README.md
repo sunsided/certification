@@ -15,7 +15,7 @@ certificates here myself.
 - [Fundamentals of Project Planning and Management](coursera/project-planning-fundamentals.pdf) ([verify](https://coursera.org/verify/HWTHS2SAY6))
 - [Algorithmic Toolbox](coursera/algortihmic-toolbox-M35LUD3SKCNL.pdf) ([verify](https://coursera.org/verify/M35LUD3SKCNL), [project](https://github.com/sunsided/algorithmic-toolbox))
 
-## Eazl
+### Eazl
 
 - [Advanced Management Training Program 2019](eazl/3118-AMT2019.pdf)
   - Note that this is an instructor issued certificate for the [Complete Management Skills Certification Course (2019)](https://www.udemy.com/certificate/UC-HPTVJ78Q/) Udemy course listed below.
@@ -105,7 +105,7 @@ certificates here myself.
 
 ## Software Development and Tools
 
-### .NET / Core
+### Udemy
 
 - [High Performance Coding with .NET Core and C#](udemy/UC-b41f0f4f-c5e2-4fcb-a123-0226d15c8243.pdf) ([verify](https://ude.my/UC-b41f0f4f-c5e2-4fcb-a123-0226d15c8243))
 
