@@ -22,6 +22,7 @@ certificates here myself.
 
 ### Udemy
 
+- [Effective Delegation](udemy/UC-458727c6-8df7-4ef7-ae0d-b7291922df31.pdf) ([verify](https://ude.my/UC-458727c6-8df7-4ef7-ae0d-b7291922df31))
 - [Servant Leadership](udemy/UC-05679178-c962-461d-8cfb-e1a2a35c9bca.pdf) ([verify](https://ude.my/UC-05679178-c962-461d-8cfb-e1a2a35c9bca))
 - [The Complete Management Skills Certification Course (2019)](udemy/UC-HPTVJ78Q.pdf) ([verify](https://www.udemy.com/certificate/UC-HPTVJ78Q/))
 - [Lean Leadership, Lean Culture & Lean Management](udemy/UC-KMVENK69.pdf) ([verify](https://www.udemy.com/certificate/UC-KMVENK69/))
