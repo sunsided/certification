@@ -105,6 +105,10 @@ certificates here myself.
 
 ## Software Development and Tools
 
+### .NET / Core
+
+- [High Performance Coding with .NET Core and C#](udemy/UC-b41f0f4f-c5e2-4fcb-a123-0226d15c8243.pdf) ([verify](https://ude.my/UC-b41f0f4f-c5e2-4fcb-a123-0226d15c8243))
+
 ### MongoDB
 
 - [M102: MongoDB for DBAs](mongodb/m102-dba.pdf)
