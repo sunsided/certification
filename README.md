@@ -24,11 +24,11 @@ certificates here myself.
 
 - [Building a Team from Scratch: Recruit, Hire, Onboard, & more](udemy/UC-fb735bfa-b73f-4a21-8f89-c8e0161afcea.pdf) ([verify](https://ude.my/UC-fb735bfa-b73f-4a21-8f89-c8e0161afcea))
 - [Leading Effective 1-on-1 Meetings: Win loyalty and retention](udemy/UC-8e6f79da-132b-4a40-b5ef-4fbdfa1ed76d.pdf) ([verify](https://ude.my/UC-8e6f79da-132b-4a40-b5ef-4fbdfa1ed76d))
-- [Effective Delegation](udemy/UC-458727c6-8df7-4ef7-ae0d-b7291922df31.pdf) ([verify](https://ude.my/UC-458727c6-8df7-4ef7-ae0d-b7291922df31))
-- [Servant Leadership](udemy/UC-05679178-c962-461d-8cfb-e1a2a35c9bca.pdf) ([verify](https://ude.my/UC-05679178-c962-461d-8cfb-e1a2a35c9bca))
 - [The Complete Management Skills Certification Course (2019)](udemy/UC-HPTVJ78Q.pdf) ([verify](https://www.udemy.com/certificate/UC-HPTVJ78Q/))
 - [Lean Leadership, Lean Culture & Lean Management](udemy/UC-KMVENK69.pdf) ([verify](https://www.udemy.com/certificate/UC-KMVENK69/))
 - [Leadership: Leading When You Are Not In Charge!](udemy/UC-3e8c09f4-f979-460c-a80a-d09482ca754b.pdf) ([verify](https://ude.my/UC-3e8c09f4-f979-460c-a80a-d09482ca754b))
+- [Effective Delegation](udemy/UC-458727c6-8df7-4ef7-ae0d-b7291922df31.pdf) ([verify](https://ude.my/UC-458727c6-8df7-4ef7-ae0d-b7291922df31))
+- [Servant Leadership](udemy/UC-05679178-c962-461d-8cfb-e1a2a35c9bca.pdf) ([verify](https://ude.my/UC-05679178-c962-461d-8cfb-e1a2a35c9bca))
 - [Design Thinking Crashkurs](udemy/UC-XZR9BEZJ.pdf) ([verify](https://www.udemy.com/certificate/UC-XZR9BEZJ/))
 - [Grundlagen des Innovationsmanagements](udemy/UC-OR3D4CI4.pdf) ([verify](https://www.udemy.com/certificate/UC-OR3D4CI4/))
 - [Prozessmodellierung mit BPMN 2.0](udemy/UC-9Q7L0H39.pdf) ([verify](https://www.udemy.com/certificate/UC-9Q7L0H39/))
