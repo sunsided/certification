@@ -104,6 +104,10 @@ certificates here myself.
   - [Image Captioning project](https://github.com/sunsided/image-captioning)
   - [SLAM project](https://github.com/sunsided/slam)
 
+### Coursera
+
+- [Camera and Imaging](coursera/camera-and-imaging-6URY7AU5U28U.pdf) ([verify](https://www.coursera.org/verify/6URY7AU5U28U))
+
 ---
 
 ## Software Development and Tools
