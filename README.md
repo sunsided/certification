@@ -106,7 +106,9 @@ certificates here myself.
 
 ### Coursera
 
-- [Camera and Imaging](coursera/camera-and-imaging-6URY7AU5U28U.pdf) ([verify](https://www.coursera.org/verify/6URY7AU5U28U))
+- First Principles of Computer Vision Specialization
+  - [Camera and Imaging](coursera/camera-and-imaging-6URY7AU5U28U.pdf) ([verify](https://www.coursera.org/verify/6URY7AU5U28U))
+  - [Features and Boundaries](coursera/features-and-boundaries-DHJVDUMMGAJJ.pdf) ([verify](https://www.coursera.org/verify/DHJVDUMMGAJJ))
 
 ---
 
