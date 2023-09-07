@@ -117,6 +117,7 @@ certificates here myself.
 ### Udemy
 
 - [High Performance Coding with .NET Core and C#](udemy/UC-b41f0f4f-c5e2-4fcb-a123-0226d15c8243.pdf) ([verify](https://ude.my/UC-b41f0f4f-c5e2-4fcb-a123-0226d15c8243))
+- [Software Architecture & Technology of Large-Scale Systems](udemy/UC-15aa2bdd-1f19-4393-a3b2-e9af1453b0cb.pdf) ([verify](https://ude.my/UC-15aa2bdd-1f19-4393-a3b2-e9af1453b0cb))
 
 ### MongoDB
 
